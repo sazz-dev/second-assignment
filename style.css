@@ -1,1 +1,21 @@
-@import "tailwindcss"
+/* Color Varient */
+
+.black{
+    color: #252432;
+}
+
+.gray{
+    color: #8987A1;
+}
+
+.dark-gray{
+color: 7B7C80;
+}
+
+.primary-color{
+    color: #E95A08;
+}
+
+
+
+/* Button */
